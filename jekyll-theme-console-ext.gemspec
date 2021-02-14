@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-console-ext"
-  spec.version       = "0.2.2"
-  spec.authors       = ["b2a3e8, pedr0silva"]
-  spec.email         = [""]
+  spec.version       = "1.0"
+  spec.authors       = ["pedr0silva"]
+  spec.email         = ["pmiguelfs@gmail.com"]
 
-  spec.summary       = ""
+  spec.summary       = "An extension on b2a3e8's jekyll-theme-console-ext. Added centered images and highlight.js. Feel free to check out my personal website for a quick demo (pedr0silva.github.io)"
   spec.homepage      = "https://github.com/pedr0silva/site-theme"
   spec.license       = "MIT"
 
