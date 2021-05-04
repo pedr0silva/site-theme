@@ -1,11 +1,18 @@
 --- 
 --- 
 
-.images {
+.images40 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 40%;
+}
+
+.images100 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
 }
 
 .imgLabel {
@@ -13,7 +20,6 @@
     text-decoration: none;
     text-align: center;
     display: block;
-    color: #DBDBDB;
 }
 
 .tagheader {
@@ -21,7 +27,6 @@
     text-decoration: none;
     text-align: center;
     display: block;
-    color: #DBDBDB;
 }
 
 .images:hover {
